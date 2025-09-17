@@ -61,3 +61,24 @@ This project demonstrates how **integrated retail analytics** can help optimize 
 - Providing **accurate demand forecasts**  
 
 Overall, the solution enables **data-driven retail decision-making** to improve efficiency, increase revenue, and enhance customer satisfaction.  
+
+---
+
+## Acknowledgments
+
+*   The developers of the powerful open-source libraries used in this project.
+*   The community providing the dataset for this important research area.
+
+---
+
+## 🗂️ Data sets
+* This project was created during and Internship.
+* If you want to use the data that I have used, you can contact me.
+
+---
+
+## 🙋‍♂️ Author
+
+**Shubham Pandey**
+📧 [Email Me](mailto:shubhamppandey1084@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/shubham-pandey-6a65a524a/) • [GitHub](https://github.com/Shubhampandey1git)
